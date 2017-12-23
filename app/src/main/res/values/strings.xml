@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Design5</string>
+    <string name="increase">increase</string>
+    <string name="descrease">descrease</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+</resources>
